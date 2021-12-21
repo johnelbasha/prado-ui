@@ -1,0 +1,14 @@
+.bg1 {
+  background-color: #F8F7FF;  
+}
+
+.app-spacing {
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.centered-content {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
